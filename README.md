@@ -1,7 +1,7 @@
 ## cmj2002
 
 <a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=cmj2002&theme=yeblu' width="250px" />
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=cmj2002&theme=yeblu' width="280px" />
 </a>
 
 正在南京大学学习人工智能
