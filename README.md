@@ -1,16 +1,13 @@
-### Hi there 👋
+## cmj2002
 
-<!--
-**cmj2002/cmj2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#">
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=cmj2002&theme=yeblu' width="330px" />
+</a>
 
-Here are some ideas to get you started:
+正在南京大学学习人工智能
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+博客：[blog.caomingjun.com](https://blog.caomingjun.com)
+
+邮箱：[me@caomingjun.com](mailto:me@caomingjun.com)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cmj2002&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
